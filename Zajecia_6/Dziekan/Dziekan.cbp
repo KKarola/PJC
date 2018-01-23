@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dziekan" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dziekan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dziekan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Baza.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Baza.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Baza.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Grupa.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/MENU.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Przedmiot.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Student.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Uzytkownicy.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Uzytkownik.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/Wykladowca.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.exe" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.ilk" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.log" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.pch" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.pdb" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/CL.command.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/CL.read.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/CL.write.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/dziekanat.lastbuildstate" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/link.command.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/link.read.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/dziekanat.tlog/link.write.1.tlog" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/stdafx.obj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/vc141.idb" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Debug/vc141.pdb" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Grupa.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Grupa.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Grupy.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/MENU.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/MENU.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Ocenki.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Przedmiot.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Przedmiot.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Przedmioty.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Studenci2.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Student.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Student.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Uzytkownicy.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Uzytkownicy.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/UzytkownicyBaza.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Uzytkownik.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Uzytkownik.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Wykladowca.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Wykladowca.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/Wykladowcy.txt" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/dziekanat.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/dziekanat.vcxproj" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/dziekanat.vcxproj.filters" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/plik.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/stdafx.cpp" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/stdafx.h" />
+		<Unit filename="../../../../../../../Downloads/dziekanat/dziekanat/targetver.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
